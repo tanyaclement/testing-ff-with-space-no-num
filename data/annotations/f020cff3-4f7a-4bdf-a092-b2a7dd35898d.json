@@ -1,5 +1,972 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "uuid": "a7b3ac85-ca08-4fdd-9a72-c32101e47f36",
+      "start_time": 0.09,
+      "end_time": 20.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n--terms of testifying. So part of what we will do today, is for you all to testify to what you know, about Furious Flower, how many ways you've entered this whole phenomenon  that's"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "f1cdb738-1bab-4729-87e5-605a613854a0",
+      "start_time": 20.85,
+      "end_time": 27.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\ncalled Furious Flower. So that's how we're going to involve all the voices in this room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "adde4fe9-8727-47ec-b439-0e6601142fc6",
+      "start_time": 29.76,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nAnd the subtext, I think, for this workshop for this seminar is... you will teach what you know. Isn't that the, isn't that the reason we are doing this legacy? I started calling this this legacy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "daca7368-4b77-48c4-894f-cab39e0fc65b",
+      "start_time": 50.67,
+      "end_time": 51.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nseminar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "eaab72f6-ec14-42ea-8120-73815be119a9",
+      "start_time": 113.31,
+      "end_time": 137.43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nSo, I really believe that you teach what you know. And when I came to James Madison University, in 1985, I was the first African American to be hired in the department."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "a601405c-8ca1-4529-9328-f6dfde93489d",
+      "start_time": 138.54,
+      "end_time": 154.59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nNow, I didn't learn until later that there was great resentment about my hiring. And Azadi, you had a, a laugh of recognition there. It's like you had a little white handkerchief and you said>I know"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": ""
+        }
+      ]
+    },
+    {
+      "uuid": "8fbe9215-4023-458f-8d0f-92938ac716d6",
+      "start_time": 154.59,
+      "end_time": 155.43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nwhat you talkin about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "2f707b81-b419-47b5-957f-e067183111e6",
+      "start_time": 156.62,
+      "end_time": 176.24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nAnd that's how it was, for so many Black women and men coming into academe in the late '70s and '80s. In fact, I was sharing with Sonia and Azadi and Becky at lunch,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "5cb3af56-283a-45e3-b743-cd288e883874",
+      "start_time": 177.02,
+      "end_time": 200.51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nthat when my first departmental meeting, and I'd been I was at JMU for just a week, maybe two weeks at the most. I go into the meeting, and I get there early, so that people will know that I'm going"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "e533b76a-1460-435a-b944-f950bdd8895d",
+      "start_time": 200.51,
+      "end_time": 204.29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nto be a functioning part of this department."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "9b255d9d-379e-448e-bd9a-4dfce0ee4d8d",
+      "start_time": 205.73,
+      "end_time": 227.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nSo I come in and take my seat in the second to the last row. And in comes this man, my colleagues, smelling of cigarette smoke, and bourbon. He just happened to be the Southern Literature specialist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "2939f0e7-025e-4285-9c40-80ea6d947d0a",
+      "start_time": 227,
+      "end_time": 246.47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nI'll never forget his name, David Hallman. I'll put it out there. I'll put it out there, because, you know, let's call a spade a spade. So I'm sitting there waiting for the meeting to begin. He comes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "a24cfab0-3502-491f-9ac6-40d305a7d979",
+      "start_time": 246.47,
+      "end_time": 250.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nin trailing faculty members."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "76b67f58-de9e-4dab-b903-d7a7e5afbf79",
+      "start_time": 252.65,
+      "end_time": 260.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nAnd he comes and sits behind me. And he says to them, \"come on back here to the Jim Crow section.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "3ee8fe3b-a500-41fe-b898-dba987cc1ba4",
+      "start_time": 265.01,
+      "end_time": 266.21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nSay What year it was again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "DaMaris B. Hill"
+        }
+      ]
+    },
+    {
+      "uuid": "994e763e-9217-4ddb-a21e-b530cdc42b8e",
+      "start_time": 266.45,
+      "end_time": 283.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nThat was 1985 DaMaris. Come on back in the Jim Crow section. So I, I was there as a Commonwealth visiting professor, my husband and I were deciding whether we were going to stay. So"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "c46ec626-e8ec-45f8-9ac4-1e10dc127791",
+      "start_time": 283.58,
+      "end_time": 290.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nwe had a year to decide and I'm now here for only two weeks. My husband's having a great experience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "e2281b4d-9162-49ae-b2ea-d2b6d8bde3bc",
+      "start_time": 291.26,
+      "end_time": 309.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nSo I bit my lip and I said, oh my god, what have I come into? ...Well... the meeting was about to begin. And other people were coming in, just as you all were just coming in. And then he said to them,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "5db746a1-589a-41f8-b893-7d6ec5eea9d3",
+      "start_time": 314.33,
+      "end_time": 314.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nOh, no he didn't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "84f25227-0d6a-4fa3-b5de-6ebdebe35aec",
+      "start_time": 315.68,
+      "end_time": 332.72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nSo no, that's documented in this book, Shaping Memories. Because I wanted people to understand what we had to go through as women in academe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "b68c426a-b25a-4d50-919e-6ce99e3ccf9e",
+      "start_time": 333.86,
+      "end_time": 352.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nSo that was my first week at James Madison University. Now, obviously, things have gotten better. But that was my introduction, and why, why was this man allowed to do this? And do you know, how do"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "18fe313f-2be0-4cb6-81c4-ea6a3d98d137",
+      "start_time": 352.52,
+      "end_time": 356.72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nyou think people responded? I didn't think I was gonna get off on this, but how do you think people responded?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "af2a06a3-39bc-4ab2-96fb-41a384d96e56",
+      "start_time": 357.27,
+      "end_time": 357.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nThey were quiet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Class"
+        }
+      ]
+    },
+    {
+      "uuid": "6b39aeb4-0f9b-49e1-a4f5-e4f192a2014b",
+      "start_time": 358.23,
+      "end_time": 362.55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nThey were quiet. No one said a word."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "39a43d02-b4d3-4b43-811d-b5d9a5b71af7",
+      "start_time": 362.58,
+      "end_time": 364.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nCause you didn't, thats right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "d76e32e0-05df-4363-8d81-8dbbe1998a32",
+      "start_time": 364.69,
+      "end_time": 383.02,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nWhat? No one said a word. Well, when he said that, to me, my stomach started churning. And I said, if I don't respond immediately to this, that I did not hold my head up in this"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "9517c1b4-90c8-4671-a222-1ad08192f8b4",
+      "start_time": 383.02,
+      "end_time": 384.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nfaculty or at this school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "2813a767-05c9-4d33-973f-53476f4f67cc",
+      "start_time": 384,
+      "end_time": 405.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nSo I cornered him, I stood up, the head of the department, nobody said a thing. And I said to him... If you say anything like that to me again, in my presence, you're not only gonna need a lawyer,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "9a72547e-bfea-4dc8-a2c4-75229ad9756c",
+      "start_time": 405.72,
+      "end_time": 406.74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nyou're gonna need a doctor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "b0bccdd0-791f-4e0d-b8b2-35032f5374c7",
+      "start_time": 408.57,
+      "end_time": 424.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nAnd I meant it. Because I was really, really sure that it was going to be physical. If I had to deal with this again. And the thing that made me angry, I have been, since I've been a teacher, and I"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "68a3a161-efe1-4cab-b95a-959de8b25bb3",
+      "start_time": 424.83,
+      "end_time": 431.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nhave been a teacher since 1971, I have been a fierce advocate for my students."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "94fa1fee-cd4f-438b-9208-febcd7e7e621",
+      "start_time": 432.54,
+      "end_time": 451.68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nAnd I thought, if this man who is honored by his colleagues, has this kind of latitude with a colleague, someone who's a peer, what is he doing inside the classroom with students? So that, it made me"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "5e3ad657-166d-4c62-97f6-fba7d57667f0",
+      "start_time": 451.68,
+      "end_time": 453.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nfighting, fighting mad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "959352b7-f51d-452f-ad3a-7c44e4fd9f94",
+      "start_time": 454.05,
+      "end_time": 472.05,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nAnd Becky asked, Who are the Wintergreen Women? Well, the reason that we started, that I started Wintergreen, was I knew that if I faced that, coming up, into James Madison University, that Nikki"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "af8ccceb-9241-4419-81cf-b54db1d87cbd",
+      "start_time": 472.8,
+      "end_time": 479.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nGiovanni, even though certainly her reputation far exceeded mine,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "7cedb2ee-b827-488f-ad48-05d97cc9b5b7",
+      "start_time": 479.85,
+      "end_time": 494.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nbut human nature is human nature, she was going to Virginia Tech. So I said, let me gather around her some women who will have her back for the few years, I thought she might be there two years. For"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "4641dcff-afdb-4315-b7be-ed24eab0fa6f",
+      "start_time": 494.88,
+      "end_time": 497.49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nthe few years that she will be at Virginia Tech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "032b8b24-5fe1-4b36-9731-cd1bfcb6ff19",
+      "start_time": 499.11,
+      "end_time": 512.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nSo I call Darrell Dance. Your mentor. I called, and Darrell Dance called Opal Moore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "78998d1c-6320-4da5-8f86-c586bd8dd4b0",
+      "start_time": 674.16,
+      "end_time": 674.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nThe dimple's still there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "9fa99081-a355-437d-8649-87f342625a85",
+      "start_time": 686.88,
+      "end_time": 688.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nLet's hear Ethelbert."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "DaMaris B. Hill"
+        }
+      ]
+    },
+    {
+      "uuid": "a89bdcad-f832-4850-9080-ac0c6942ce81",
+      "start_time": 688.92,
+      "end_time": 690.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nA little Ethelbert? Where's Ethelbert?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "afb2784a-04bd-4cfd-9dd5-c275b9bd49b1",
+      "start_time": 692.43,
+      "end_time": 693.03,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nTo the right there"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "9dbbe31c-acc2-457f-8652-11d0aad5a9c1",
+      "start_time": 810.95,
+      "end_time": 813.32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nanyone have a knowledge of that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ]
+    },
+    {
+      "uuid": "c0bad0a8-3c48-4532-b38a-9fae58d8f9a6",
+      "start_time": 815.87,
+      "end_time": 817.34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[\ninaudible]... to celebrate Gwen Brooks?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "b2717e60-4628-4265-871b-2fb5e1fd7bcd",
+      "start_time": 1071.24,
+      "end_time": 1073.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nJust like we said today, Jo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sonia Sanchez"
+        }
+      ]
+    },
+    {
+      "uuid": "c67f733c-a6f3-465e-92f9-3776b803c783",
+      "start_time": 1296.54,
+      "end_time": 1313.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nSomebody Blew up America. So the students, of course, I think it was, for them to do that. But what was interesting, and what I think, is powerful in the story is that Joanne, of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Opal Moore"
+        }
+      ]
+    }
+  ],
   "set": "Default",
   "event_id": "c55d0bf1-6847-4acd-aa18-6d404ee9bdf1",
   "source_id": "f506fef9-31a3-4304-b031-a409a7785668"
