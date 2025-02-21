@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "f506fef9-31a3-4304-b031-a409a7785668": {
+      "label": "FF0010",
+      "is_offline": false,
+      "file_url": "https://apps.lib.jmu.edu/audiannotate/FF010.mp4",
+      "duration": 3599
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "FF0010",
+  "created_at": "2025-02-21T13:17:07.019Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-02-21T13:17:07.019Z",
+  "updated_by": "tanyaclement"
+}
